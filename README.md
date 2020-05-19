@@ -1,6 +1,20 @@
 # hierarchical-variational-models-physics
 Hierarchical variational models for physics.
 
+## Citing this work
+
+Please use the following:
+
+```
+@phdthesis{altosaar2020probabilistic,
+    Author = {Jaan Altosaar},
+    School = {Princeton University},
+    Title = {Probabilistic Modeling of Structure in Science: Statistical Physics to Recommender Systems},
+    Year = {2020}
+}
+```
+Link to PDF at https://github.com/altosaar/thesis
+
 ## Running an experiment
 
 To fit an Ising model with 1M+ spins using 5400 parameters:
